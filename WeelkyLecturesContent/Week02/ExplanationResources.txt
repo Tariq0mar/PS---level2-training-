@@ -1,0 +1,17 @@
+STL "Vector"
+
+Explanation Videos: 
+
+          1) How does ArrayList class work ( same logic for vector but java version )
+              https://www.youtube.com/watch?v=RZ61UfsyIOY
+
+          2) How to implement the ArrayList class ( same logic for vector but java version)
+              https://www.youtube.com/watch?v=4gvPmzWEwsY
+
+          3) How to use vector in c++ 
+              https://www.youtube.com/watch?v=4hhz69S15wU&list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp&index=2
+              https://www.youtube.com/watch?v=AMnultLTdlI&list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp&index=3
+              https://www.youtube.com/watch?v=4b3Glt6zWY4&list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp&index=4
+              https://www.youtube.com/watch?v=4om6SL_cF50&list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp&index=5
+
+

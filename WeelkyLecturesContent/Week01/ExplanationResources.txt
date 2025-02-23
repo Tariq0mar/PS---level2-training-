@@ -1,0 +1,8 @@
+Time Complexity :
+
+Explanation Videos :
+          https://www.youtube.com/watch?v=sHhVsGQz9MI
+          https://www.youtube.com/playlist?list=PLDwYc6v9MWmMPkJNZm1w0VSx2n_8TiFFW
+Explanation Paper  : 
+          https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/
+

@@ -1,0 +1,83 @@
+Links : 
+
+
+
+
+
+
+
+Lecture Code : 
+
+vector<int> v{ 2, 2, 3, 4, 6, 9, 9, 9, 9, 20};
+
+int firstIndexLessOrEqualNumber(int Number) {
+	int ans=-1,f=0,l=v.size()-1;
+	while (f<=l) {
+		int mid = (f+l)/2;
+
+		if(v[mid]>=Number) {
+			ans=mid;
+			l=mid-1;
+		}
+		else {
+			f=mid+1;
+		}
+	}
+	return ans;
+}
+
+
+int firstIndexLargerOrEqualNumber(int Number){
+    int ans=-1,f=0,l=v.size()-1;
+    while (f<=l){
+        int mid = (f+l)/2;
+
+        if(v[mid]<=Number){
+            ans=mid;
+            f=mid+1;
+        }
+        else{
+            l=mid-1;
+        }
+    }
+    return ans;
+}
+
+int firstIndexLargerNumber(int Number) {
+	int ans=-1,f=0,l=v.size()-1;
+	while (f<=l) {
+		int mid = (f+l)/2;
+
+		if(v[mid]>Number) {
+			ans=mid;
+			l=mid-1;
+		}
+		else {
+			f=mid+1;
+		}
+	}
+	return ans;
+}
+
+
+
+int LastIndexLessNumber(int Number){        
+    int ans=-1,f=0,l=v.size()-1;
+    while (f<=l){
+        int mid = (f+l)/2;
+
+        if(v[mid]<Number){
+            ans=mid;
+            f=mid+1;
+        }
+        else{
+            l=mid-1;
+        }
+    }
+    return ans;
+}
+
+
+int main() {
+	fast
+}
